@@ -1,0 +1,14 @@
+image_id: 4251 label: 365 xmax: 375 ymax: 556 xmin: 112 ymin: 450 
+img_id: 23 Label: 33 x1: y1: 09 x2: 320 y: 400
+image_ID: 44 label: 0014 x: 400 y:689 x: 259 y: 674
+id: 163  label: 46 x1:   382 y1: 85 x2: 933  y2: 178
+image_id: 1 Label: 101  xmin: 181 ymin:  71 xmax: 299  ymax: 364
+img_ID: 2256 label: 300 xmin: 249 ymin: 171 xmax: 311  ymax: 312
+image_id: 6143 label: 575   x1:   639 y1:   184 x2:   807  y2:   439
+img_id: 7453 label: 25    xmin: 145 ymin: 403 xmax: 284  ymax: 670
+ID: 903 x: 587 y: 222 x: 782 y: 444
+Image_id: 678         Label: 207   x1:   327 y1:   257 x2:   431  y2:   346
+image_id: 5821 label: 55  xmin: 611 ymin: 146 xmax: 651  ymax: 231
+label: ymin: 117 xmax: 760  ymax: 461
+Image_ID: 1682 Label: 184   XMin: 188 YMin: 623 XMax: 239  YMax: 891
+image_id: 6143 Label: 9  x1:   639 y1:   184 x2:   807  y2:   439

@@ -1,0 +1,9 @@
+image_id: 9913 label: 365 xmax: 375 ymax: 556 xmin: 112 ymin: 450 
+img_id: 9232 Label: 33 x1: y1: 09 x2: 320 y: 400
+Image_id: 944 label: 17  xmin: 211 ymin: 197 xmax: 409  ymax: 431
+img_id: 9321   Label: 222 x1: 308 y1: 748 x2: 526  y2: 999
+image_ID: 9213 label: 638 xmin: 630 ymin: 552 xmax: 976  ymax: 807
+img_id: 7833   label: 184 xmax: 547 ymax: 585 xmin: 412 ymin: 447
+label: 2333 ymin: 232 xmax: 760  ymax: 461
+Image_ID: 9111 Label: 184   XMin: 188 YMin: 623 XMax: 239  YMax: 891
+image_id: 9444 Label: 9  x1:   639 y1:   184 x2:   807  y2:   439

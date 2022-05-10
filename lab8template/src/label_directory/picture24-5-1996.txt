@@ -1,0 +1,4 @@
+image_id: 153 label: 365 xmax: 375 ymax: 556 xmin: 112 ymin: 450 
+img_id: 1124 Label: 33 x1: y1: 09 x2: 320 y: 400
+image_ID: 1525 label: 0014 x: 400 y:689 x: 259 y: 674
+id: 1526  label: 46 x1:   382 y1: 85 x2: 933  y2: 178
